@@ -1,2 +1,35 @@
 
 /* Your CSS Code here. */
+
+.holder {
+	display: flex;
+	gap: 20px;
+	/* flex:  */
+}
+
+.item1 {
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	text-align: center;
+	align-content: center;
+}
+
+
+.item2 {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	text-align: center;
+	align-content: center;
+}
+
+
+
+.item3 {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	text-align: center;
+	align-content: center;
+}
