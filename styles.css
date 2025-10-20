@@ -5,6 +5,8 @@
 	display: flex;
 	gap: 20px;
 	/* flex:  */
+	justify-content: space-between;
+	flex: wrap;
 }
 
 .item1 {
